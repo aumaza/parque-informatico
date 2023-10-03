@@ -1,0 +1,29 @@
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:39:35
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:41:23
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:52:27
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:53:46
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:55:06
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:56:13
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:58:01
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 09:59:14
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:11:56
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:12:59
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:14:23
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:15:29
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:16:36
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:17:57
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:19:10
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:21:57
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:22:46
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:23:39
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:24:35
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:25:36
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:26:49
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:27:55
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:28:42
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:29:48
+Success: Se ha insertado registro en la tabla pi_equipamiento - 24-09-2023 10:30:53
+Success: Se ha actualizado registro en la tabla pi_equipamiento con ID: 4 - 25-09-2023 07:19:59
+Success: Se ha actualizado registro en la tabla pi_equipamiento con ID: 4 - 25-09-2023 07:20:19
+Success: Se ha actualizado registro en la tabla pi_equipamiento con ID: 10 - 25-09-2023 10:08:48
+Success: Se ha actualizado registro en la tabla pi_equipamiento con ID: 9 - 25-09-2023 10:09:06

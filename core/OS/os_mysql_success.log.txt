@@ -1,0 +1,6 @@
+Success: Se ha insertado registro en la tabla pi_sistemas_operativos - 25-09-2023 10:06:21
+Success: Se ha insertado registro en la tabla pi_sistemas_operativos - 25-09-2023 10:06:43
+Success: Se ha insertado registro en la tabla pi_sistemas_operativos - 25-09-2023 10:06:54
+Success: Se ha insertado registro en la tabla pi_sistemas_operativos - 25-09-2023 10:07:04
+Success: Se ha insertado registro en la tabla pi_sistemas_operativos - 25-09-2023 10:07:22
+Success: Se ha insertado registro en la tabla pi_sistemas_operativos - 02-10-2023 12:02:05
